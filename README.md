@@ -1,2 +1,2 @@
-# Bullying-Bangkit
-This Repo for Team Project Capstone
+# Bullience-Bangkit-ML-TEAM
+This Repo for ML Team Project Capstone
